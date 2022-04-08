@@ -28,8 +28,8 @@ const styles = StyleSheet.create({
   },
 
   card: {
-    margin: 10,
-    height: '20%',
+    margin: '5%',
+    height: '22%',
     borderRadius: 8,
     justifyContent: "center"
   },
